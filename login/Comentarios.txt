@@ -1,0 +1,9 @@
+Things I learned
+
+Handling Text Controllers
+Navigation between Screens
+Creating Forms in Flutte
+User Data Validation
+Using Images from Assets
+
+User: Cardenas Torres Jose Francisco
